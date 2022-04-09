@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main()
-{cout<<"I am not trying my best." <<endl;
-//last comment}
+int main(){
+  cout<<"I am not trying my best." <<endl;
+//last comment
+}
